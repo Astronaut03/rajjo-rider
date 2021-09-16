@@ -1,0 +1,28 @@
+.bg{
+    height: 1000px;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+.bg .logo{
+    height: 30px;
+}
+.title-container{
+    color: rgba(255, 255, 255, 0.699);
+    text-align: center;
+    font-size: 2em;
+}
+.nav{
+    margin-left: 100px;
+}
+.nav li{
+    display: inline;
+    margin-left: 20px;
+    
+  }
+  
+  .nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
